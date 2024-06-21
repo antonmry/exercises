@@ -44,5 +44,8 @@ We should implement a search system with the following characteristics:
 
 # Resources
 
+- [Dataset]
+- [Building a full-text search engine in 150 lines of Python code]
+
 [Dataset]: https://dumps.wikimedia.org/enwiki/latest/
 [Building a full-text search engine in 150 lines of Python code]: https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
