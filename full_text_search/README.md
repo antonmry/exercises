@@ -37,7 +37,7 @@ We should implement a search system with the following characteristics:
 - Ignore the 25 most common words in the English language.
 - Relevancy should be based on the number of times the search term appears in
   the abstract.
-- Propose a better way for relevancy tha term occurences.
+- Propose a better way for relevancy that term occurrences.
 
 # Design 
 
