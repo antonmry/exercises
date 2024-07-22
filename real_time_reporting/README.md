@@ -39,7 +39,7 @@ We should implement a system with the following characteristics:
 
 Ideally, we should be able to start the skeleton of the platform.
 
-# Design 
+# Design
 
 
 # Resources
